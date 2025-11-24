@@ -1,7 +1,7 @@
 # SMT-pick-and-place-array-board
 # Aim:
 
-To automatically pick and place the SMD electronic components onto a array bare PCB accurately using an SMT pick-and-place machine.
+To automatically pick and place the SMD electronic components onto a array bare PCB accurately using an SMT pick-and-place machine
 
 # Apparatus required:
 
